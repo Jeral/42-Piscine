@@ -1,5 +1,0 @@
-int main()
-{
-	ft_putstr("bonjour");
-	return(0);
-}
